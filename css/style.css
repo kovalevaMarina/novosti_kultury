@@ -325,22 +325,18 @@ body {
   height: 47px;
   background-color: #ffffff;
   vertical-align: middle;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 .btn-social-in {
   background-image: url(../img/instagram_icon.svg);
-  background-repeat: no-repeat;
-  background-position: center;
 }
 
 .btn-social-fb {
   background-image: url(../img/facebook_icon.svg);
-  background-repeat: no-repeat;
-  background-position: center;
 }
 
 .btn-social-tw {
   background-image: url(../img/twitter_icon.svg);
-  background-repeat: no-repeat;
-  background-position: center;
 }
